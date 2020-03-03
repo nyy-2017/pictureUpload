@@ -1,0 +1,4 @@
+promise async await 异步编程的处理
+ajax  => axios
+http 
+File相关操作类（Canvas）
